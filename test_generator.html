@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MarketWire Test Feed Generator</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+            line-height: 1.6;
+        }
+        
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.2em;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #34495e;
+        }
+        
+        input[type="url"] {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s ease;
+            box-sizing: border-box;
+        }
+        
+        input[type="url"]:focus {
+            outline: none;
+            border-color: #3498db;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+        }
+        
+        .button {
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            width: 100%;
+            margin-top: 10px;
+        }
+        
+        .button:hover {
+            background: linear-gradient(135deg, #2980b9, #1f618d);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+        
+        .button:disabled {
+            background: #bdc3c7;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+        
+        .result {
+            margin-top: 30px;
+            padding: 20px;
+            border-radius: 8px;
+            display: none;
+        }
+        
+        .result.success {
+            background-color: #d5f4e6;
+            border: 1px solid #27ae60;
+            color: #155724;
+        }
+        
+        .result.error {
+            background-color: #f8d7da;
+            border: 1px solid #e74c3c;
+            color: #721c24;
+        }
+        
+        .result.processing {
+            background-color: #fff3cd;
+            border: 1px solid #f39c12;
+            color: #856404;
+        }
+        
+        .example-urls {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .example-urls h3 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+        
+        .url-example {
+            background-color: white;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+            font-family: monospace;
+            font-size: 14px;
+            word-break: break-all;
+            cursor: pointer;
+            border: 1px solid #ddd;
+            transition: border-color 0.3s ease;
+        }
+        
+        .url-example:hover {
+            border-color: #3498db;
+            background-color: #f8f9fa;
+        }
+        
+        .spinner {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #3498db;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-right: 10px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .feed-links {
+            margin-top: 20px;
+            text-align: center;
+        }
+        
+        .feed-link {
+            display: inline-block;
+            background-color: #3498db;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 5px;
+            transition: background-color 0.3s ease;
+        }
+        
+        .feed-link:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 MarketWire Test Generator</h1>
+        <p class="subtitle">Test hvordan en GlobeNewswire artikel bliver processeret af MarketWire LLM</p>
+        
+        <form id="urlForm">
+            <div class="form-group">
+                <label for="articleUrl">📎 GlobeNewswire Artikel URL:</label>
+                <input 
+                    type="url" 
+                    id="articleUrl" 
+                    name="articleUrl" 
+                    placeholder="https://www.globenewswire.com/news-release/..." 
+                    required
+                >
+            </div>
+            
+            <button type="submit" class="button" id="processButton">
+                ⚡ Proces Artikel og Generer Test Feed
+            </button>
+        </form>
+        
+        <div id="result" class="result">
+            <!-- Results will be shown here -->
+        </div>
+        
+        <div class="feed-links" style="display: none;" id="feedLinks">
+            <h3>📡 Generated Feeds:</h3>
+            <a href="test_feed_custom.xml" class="feed-link" target="_blank">📄 Se Test RSS Feed</a>
+            <a href="processed_feed.xml" class="feed-link" target="_blank">📄 Se Hovedfeed</a>
+        </div>
+        
+        <div class="example-urls">
+            <h3>💡 Eksempel URL'er (klik for at indsætte):</h3>
+            <div class="url-example" onclick="setUrl('https://www.globenewswire.com/news-release/2025/06/25/3104799/0/da/Gabriel-Holding-A-S-opjusterer-forventningerne-til-regnskabs%C3%A5ret-2024-25-for-de-forts%C3%A6ttende-aktiviteter.html')">
+                Gabriel Holding - Multiple forventninger (omsætning + EBIT)
+            </div>
+            <div class="url-example" onclick="setUrl('https://www.globenewswire.com/news-release/2024/11/06/2957126/0/en/Novo-Nordisk-delivers-strong-results-and-raises-financial-guidance.html')">
+                Novo Nordisk - Guidance opdatering
+            </div>
+            <div class="url-example" onclick="setUrl('https://www.globenewswire.com/news-release/2025/06/26/3105575/0/en/First-market-launch-of-the-adrenaline-nasal-spray-EURneffy-for-treatment-of-adults-and-children-in-Germany.html')">
+                ALK - Produktlancering (ingen forventninger)
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function setUrl(url) {
+            document.getElementById('articleUrl').value = url;
+        }
+        
+        function showResult(type, message) {
+            const resultDiv = document.getElementById('result');
+            resultDiv.className = `result ${type}`;
+            resultDiv.innerHTML = message;
+            resultDiv.style.display = 'block';
+        }
+        
+        function showFeedLinks() {
+            document.getElementById('feedLinks').style.display = 'block';
+        }
+        
+        document.getElementById('urlForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const url = document.getElementById('articleUrl').value;
+            const button = document.getElementById('processButton');
+            
+            // Validate URL
+            if (!url.includes('globenewswire.com')) {
+                showResult('error', '❌ Kun GlobeNewswire URL\'er er understøttet');
+                return;
+            }
+            
+            // Show processing state
+            button.disabled = true;
+            button.innerHTML = '<span class="spinner"></span>Processerer artikel...';
+            showResult('processing', '🔄 Udtrækker indhold fra artikel og processerer med OpenAI...<br>Dette kan tage 30-60 sekunder.');
+            
+            try {
+                // Call Python script to process the URL
+                const response = await fetch('/process-url', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ url: url })
+                });
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const result = await response.json();
+                
+                if (result.success) {
+                    let message = `✅ <strong>Artikel processeret med succes!</strong><br><br>`;
+                    message += `<strong>📰 Artikel:</strong> ${result.title}<br>`;
+                    message += `<strong>🤖 AI Resultat:</strong> ${result.processed_content}<br><br>`;
+                    
+                    if (result.expectations_count > 1) {
+                        message += `<strong>📊 Multiple forventninger fundet:</strong> ${result.expectations_count} separate RSS items genereret<br>`;
+                    }
+                    
+                    message += `<strong>📡 Test feed opdateret:</strong> test_feed_custom.xml`;
+                    
+                    showResult('success', message);
+                    showFeedLinks();
+                } else {
+                    showResult('error', `❌ <strong>Fejl ved processering:</strong><br>${result.error}`);
+                }
+                
+            } catch (error) {
+                console.error('Error:', error);
+                showResult('error', `❌ <strong>Netværksfejl:</strong><br>Kunne ikke forbinde til processering server. Kør scriptet lokalt med Python i stedet.`);
+            } finally {
+                // Reset button
+                button.disabled = false;
+                button.innerHTML = '⚡ Proces Artikel og Generer Test Feed';
+            }
+        });
+    </script>
+</body>
+</html>

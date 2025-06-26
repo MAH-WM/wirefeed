@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>MarketWire LLM</title>
+    <link>https://marketwire.dk</link>
+    <description>Automatisk processerede børsmeddelelser med forventningstal fra danske selskaber</description>
+    <language>da-dk</language>
+    <generator>MarketWire RSS Processor</generator>
+    <lastBuildDate>Thu, 26 Jun 2025 11:01:45 </lastBuildDate>
+    <ns0:link href="https://marketwire.dk/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GABRIEL HOLDING A S: VENTER I 2024/25 EN OMSÆTNING PÅ 490–520 MIO DKK</title>
+      <link>https://www.globenewswire.com/news-release/2025/06/25/3104799/0/da/Gabriel-Holding-A-S-opjusterer-forventningerne-til-regnskabs%C3%A5ret-2024-25-for-de-forts%C3%A6ttende-aktiviteter.html</link>
+      <description>&lt;![CDATA[Gabriel Holding A/S opjusterer forventningerne til regnskabsåret 2024/25]]&gt;</description>
+      <guid isPermaLink="false">gabriel-2025-06-25#0</guid>
+      <pubDate>Wed, 25 Jun 2025 10:00:00 +0000</pubDate>
+      <author>Gabriel Holding A/S</author>
+      <category>Børsmeddelelser</category>
+    </item>
+    <item>
+      <title>GABRIEL HOLDING A S: VENTER I 2024/25 ET EBIT PÅ 25–35 MIO DKK</title>
+      <link>https://www.globenewswire.com/news-release/2025/06/25/3104799/0/da/Gabriel-Holding-A-S-opjusterer-forventningerne-til-regnskabs%C3%A5ret-2024-25-for-de-forts%C3%A6ttende-aktiviteter.html</link>
+      <description>&lt;![CDATA[Gabriel Holding A/S opjusterer forventningerne til regnskabsåret 2024/25]]&gt;</description>
+      <guid isPermaLink="false">gabriel-2025-06-25#1</guid>
+      <pubDate>Wed, 25 Jun 2025 10:00:00 +0000</pubDate>
+      <author>Gabriel Holding A/S</author>
+      <category>Børsmeddelelser</category>
+    </item>
+    <item>
+      <title>NOVO NORDISK: VENTER I 2025 EN OMSÆTNING PÅ 850-900 MIA DKK</title>
+      <link>https://www.globenewswire.com/news-release/2024/11/06/2957126/0/en/Novo-Nordisk-delivers-strong-results-and-raises-financial-guidance.html</link>
+      <description>&lt;![CDATA[Novo Nordisk A/S leverer stærke resultater og opjusterer guidances]]&gt;</description>
+      <guid isPermaLink="false">novo-2025-06-24</guid>
+      <pubDate>Tue, 24 Jun 2025 14:30:00 +0000</pubDate>
+      <author>Novo Nordisk A/S</author>
+      <category>Børsmeddelelser</category>
+    </item>
+    <item>
+      <title>DSV: VENTER I 2025 EN OMSÆTNING PÅ 180-200 MIA DKK</title>
+      <link>https://www.globenewswire.com/news-release/2024/08/15/2930567/0/en/DSV-A-S-reports-Q2-results-and-updates-guidance.html</link>
+      <description>&lt;![CDATA[DSV A/S rapporterer Q2 resultater og opdaterer guidance]]&gt;</description>
+      <guid isPermaLink="false">dsv-2025-06-21#0</guid>
+      <pubDate>Sat, 21 Jun 2025 11:20:00 +0000</pubDate>
+      <author>DSV A/S</author>
+      <category>Børsmeddelelser</category>
+    </item>
+    <item>
+      <title>DSV: VENTER I 2025 ET EBIT FØR SÆRLIGE POSTER PÅ 18-22 MIA DKK</title>
+      <link>https://www.globenewswire.com/news-release/2024/08/15/2930567/0/en/DSV-A-S-reports-Q2-results-and-updates-guidance.html</link>
+      <description>&lt;![CDATA[DSV A/S rapporterer Q2 resultater og opdaterer guidance]]&gt;</description>
+      <guid isPermaLink="false">dsv-2025-06-21#1</guid>
+      <pubDate>Sat, 21 Jun 2025 11:20:00 +0000</pubDate>
+      <author>DSV A/S</author>
+      <category>Børsmeddelelser</category>
+    </item>
+    <item>
+      <title>VESTAS: N.B</title>
+      <link>https://www.globenewswire.com/news-release/2024/10/28/2953002/0/en/Vestas-Wind-Systems-announces-new-strategic-partnership.html</link>
+      <description>&lt;![CDATA[Vestas Wind Systems A/S annoncerer ny partnerskabsaftale]]&gt;</description>
+      <guid isPermaLink="false">vestas-2025-06-22</guid>
+      <pubDate>Sun, 22 Jun 2025 16:45:00 +0000</pubDate>
+      <author>Vestas Wind Systems A/S</author>
+      <category>Børsmeddelelser</category>
+    </item>
+  </channel>
+</rss>
