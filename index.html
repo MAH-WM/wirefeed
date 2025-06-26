@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MarketWire LLM - Danske Børsmeddelelser</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .feed-url {
+            background-color: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: monospace;
+            word-break: break-all;
+            margin: 20px 0;
+        }
+        .button {
+            display: inline-block;
+            background-color: #3498db;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 10px 5px;
+        }
+        .button:hover {
+            background-color: #2980b9;
+        }
+        .info {
+            background-color: #e8f4fd;
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+        }
+        .stat {
+            text-align: center;
+            padding: 10px;
+        }
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #3498db;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>MarketWire LLM</h1>
+        
+        <p><strong>Automatisk processering af danske børsmeddelelser med AI-baseret udvinding af forventningstal.</strong></p>
+        
+        <div class="info">
+            <h3>📈 Hvad er MarketWire LLM?</h3>
+            <p>MarketWire LLM overvåger danske børsmeddelelser fra GlobeNewswire og bruger kunstig intelligens til at udtrække selskabernes forventningstal til omsætning, indtjening og overskudsgrader.</p>
+            
+            <p><strong>Format:</strong> SELSKAB: VENTER I REGNSKABSÅR EN/ET MÅLETYPE PÅ TAL ENHED VALUTA</p>
+            <p><strong>Eksempel:</strong> NOVO NORDISK: VENTER I 2025 EN OMSÆTNING PÅ 850-900 MIA DKK</p>
+        </div>
+
+        <h3>🔗 RSS Feed URL</h3>
+        <div class="feed-url">
+            <span id="feed-url">https://[dit-username].github.io/marketwire-rss/processed_feed.xml</span>
+        </div>
+        
+        <div style="text-align: center;">
+            <a href="processed_feed.xml" class="button">📄 Se RSS Feed</a>
+            <a href="https://github.com/[dit-username]/marketwire-rss" class="button">💻 GitHub Repository</a>
+        </div>
+
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">🕐</div>
+                <div>Opdateres hver 5. minut</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">🤖</div>
+                <div>AI-baseret analyse</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">🇩🇰</div>
+                <div>Danske børsmeddelelser</div>
+            </div>
+        </div>
+
+        <h3>📱 Sådan bruger du feedet</h3>
+        <ol>
+            <li><strong>Kopier RSS URL</strong> fra boksen ovenfor</li>
+            <li><strong>Tilføj til din RSS læser</strong> (Feedly, Inoreader, Apple News, etc.)</li>
+            <li><strong>Modtag automatiske opdateringer</strong> når nye forventningstal bliver fundet</li>
+        </ol>
+
+        <div class="info">
+            <h3>ℹ️ Om dataene</h3>
+            <ul>
+                <li><strong>Kilde:</strong> GlobeNewswire Danmark</li>
+                <li><strong>Frekvens:</strong> Tjekkes hver 5. minut for nye meddelelser</li>
+                <li><strong>AI Model:</strong> GPT-4 via Azure OpenAI</li>
+                <li><strong>Format:</strong> Kun finansielle forventningstal udtrækkes</li>
+                <li><strong>Output:</strong> "N.B" hvis ingen forventninger findes</li>
+            </ul>
+        </div>
+
+        <p style="text-align: center; color: #7f8c8d; margin-top: 30px;">
+            <small>Sidste opdatering: <span id="last-update">Opdateres automatisk</span></small>
+        </p>
+    </div>
+
+    <script>
+        // Update the feed URL with actual GitHub username when known
+        // This will be replaced manually after GitHub setup
+        
+        // Show current timestamp
+        document.getElementById('last-update').textContent = new Date().toLocaleString('da-DK');
+    </script>
+</body>
+</html>
