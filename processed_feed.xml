@@ -6,12 +6,21 @@
     <description>Automatisk processerede børsmeddelelser med forventningstal fra danske selskaber</description>
     <language>da-dk</language>
     <generator>MarketWire RSS Processor</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 11:31:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 11:42:13 GMT</lastBuildDate>
     <ns0:link href="https://mah-wm.github.io/wirefeed/processed_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TEST SELSKAB: VENTER I 2025 EN OMSÆTNING PÅ 1000 MIO DKK - TESTET 13:42</title>
+      <link>https://example.com/test-1750938133.495918</link>
+      <description>&lt;![CDATA[TEST ARTIKEL - 13:42:13]]&gt;</description>
+      <guid isPermaLink="false">test-1750938133.495918</guid>
+      <pubDate>Thu, 26 Jun 2025 13:42:13 GMT</pubDate>
+      <author>MarketWire Test</author>
+      <category>Børsmeddelelser</category>
+    </item>
     <item>
       <title>DSV: N.B</title>
       <link>https://www.globenewswire.com/news-release/2025/06/26/3105680/0/en/DSV-H1-2025-analyst-conference-call.html</link>
-      <description>&lt;![CDATA[&lt;![CDATA[DSV – H1 2025 analyst conference call]]&gt;</description>
+      <description>&lt;![CDATA[&lt;![CDATA[&lt;![CDATA[DSV – H1 2025 analyst conference call]]&gt;</description>
       <guid isPermaLink="false">https://www.globenewswire.com/news-release/2025/06/26/3105680/0/en/DSV-H1-2025-analyst-conference-call.html#0</guid>
       <pubDate>Thu, 26 Jun 2025 10:33 GMT</pubDate>
       <category>Børsmeddelelser</category>
@@ -19,7 +28,7 @@
     <item>
       <title>NYKREDIT REALKREDIT A/S: N.B</title>
       <link>https://www.globenewswire.com/news-release/2025/06/26/3105661/0/en/Fixing-of-coupon-rates-Nykredit-Realkredit-A-S.html</link>
-      <description>&lt;![CDATA[&lt;![CDATA[Fixing of coupon rates - Nykredit Realkredit A/S]]&gt;</description>
+      <description>&lt;![CDATA[&lt;![CDATA[&lt;![CDATA[Fixing of coupon rates - Nykredit Realkredit A/S]]&gt;</description>
       <guid isPermaLink="false">https://www.globenewswire.com/news-release/2025/06/26/3105661/0/en/Fixing-of-coupon-rates-Nykredit-Realkredit-A-S.html#0</guid>
       <pubDate>Thu, 26 Jun 2025 10:06 GMT</pubDate>
       <category>Børsmeddelelser</category>
@@ -27,7 +36,7 @@
     <item>
       <title>NYKREDIT REALKREDIT: N.B</title>
       <link>https://www.globenewswire.com/news-release/2025/06/26/3105661/0/da/Fasts%C3%A6ttelse-af-kuponrenter-Nykredit-Realkredit-A-S.html</link>
-      <description>&lt;![CDATA[&lt;![CDATA[Fastsættelse af kuponrenter - Nykredit Realkredit A/S]]&gt;</description>
+      <description>&lt;![CDATA[&lt;![CDATA[&lt;![CDATA[Fastsættelse af kuponrenter - Nykredit Realkredit A/S]]&gt;</description>
       <guid isPermaLink="false">https://www.globenewswire.com/news-release/2025/06/26/3105661/0/da/Fasts%C3%A6ttelse-af-kuponrenter-Nykredit-Realkredit-A-S.html#0</guid>
       <pubDate>Thu, 26 Jun 2025 10:06 GMT</pubDate>
       <category>Børsmeddelelser</category>
@@ -35,7 +44,7 @@
     <item>
       <title>Form 8.3 - [Alpha Group International PLC]</title>
       <link>https://www.globenewswire.com/news-release/2025/06/26/3105599/0/en/Form-8-3-Alpha-Group-International-PLC.html</link>
-      <description>&lt;![CDATA[&lt;![CDATA[DANSKE BANK A/S: N.B]]&gt;</description>
+      <description>&lt;![CDATA[&lt;![CDATA[&lt;![CDATA[DANSKE BANK A/S: N.B]]&gt;</description>
       <guid isPermaLink="false">https://www.globenewswire.com/news-release/2025/06/26/3105599/0/en/Form-8-3-Alpha-Group-International-PLC.html#0</guid>
       <pubDate>Thu, 26 Jun 2025 08:09 GMT</pubDate>
       <category>Børsmeddelelser</category>
@@ -43,7 +52,7 @@
     <item>
       <title>Correction: Fastsættelse af kuponrenter på variabelt forrentede obligationer for perioden 1. juli til 31. december 2025</title>
       <link>https://www.globenewswire.com/news-release/2025/06/26/3105584/0/da/Correction-Fasts%C3%A6ttelse-af-kuponrenter-p%C3%A5-variabelt-forrentede-obligationer-for-perioden-1-juli-til-31-december-2025.html</link>
-      <description>&lt;![CDATA[&lt;![CDATA[DLR KREDIT: N.B]]&gt;</description>
+      <description>&lt;![CDATA[&lt;![CDATA[&lt;![CDATA[DLR KREDIT: N.B]]&gt;</description>
       <guid isPermaLink="false">https://www.globenewswire.com/news-release/2025/06/26/3105584/0/da/Correction-Fasts%C3%A6ttelse-af-kuponrenter-p%C3%A5-variabelt-forrentede-obligationer-for-perioden-1-juli-til-31-december-2025.html#0</guid>
       <pubDate>Thu, 26 Jun 2025 07:42 GMT</pubDate>
       <category>Børsmeddelelser</category>
@@ -51,7 +60,7 @@
     <item>
       <title>First market launch of the adrenaline nasal spray, EURneffy®, for treatment of adults and children in Germany</title>
       <link>https://www.globenewswire.com/news-release/2025/06/26/3105575/0/en/First-market-launch-of-the-adrenaline-nasal-spray-EURneffy-for-treatment-of-adults-and-children-in-Germany.html</link>
-      <description>&lt;![CDATA[&lt;![CDATA[ALK: N.B]]&gt;</description>
+      <description>&lt;![CDATA[&lt;![CDATA[&lt;![CDATA[ALK: N.B]]&gt;</description>
       <guid isPermaLink="false">https://www.globenewswire.com/news-release/2025/06/26/3105575/0/en/First-market-launch-of-the-adrenaline-nasal-spray-EURneffy-for-treatment-of-adults-and-children-in-Germany.html#0</guid>
       <pubDate>Thu, 26 Jun 2025 07:17 GMT</pubDate>
       <category>Børsmeddelelser</category>
