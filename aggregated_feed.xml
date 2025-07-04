@@ -4,14 +4,22 @@
     <title>Aggregeret Feed</title>
     <description>Samlet feed fra multiple kilder</description>
     <link>http://localhost/</link>
-    <lastBuildDate>Fri, 04 Jul 2025 09:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 09:03:57 +0000</lastBuildDate>
     <item>
       <title>To dræbt i missilangreb på havnen i Odesa</title>
       <link>https://shippingwatch.dk/Rederier/Toerlast/article18337354.ece?utm_source=Feed&amp;utm_medium=latest</link>
       <description>&lt;p&gt;Et missil ramte ifølge ukrainsk minister torsdag ned på et område af havnen, hvor arbejdere var ved at losse metal fra et skib.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:55:00 GMT</pubDate>
       <author>AF KIT LINDHARDT</author>
-      <source>ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})</source>
+    </item>
+    <item>
+      <title>Olien falder en smule efter Irans bekræftelse af atomforpligtelse</title>
+      <link>https://energiwatch.dk/Energinyt/Olie___Gas/article18337708.ece?utm_source=Feed&amp;utm_medium=latest</link>
+      <description>&lt;p&gt;Iran har bekræftet sin forpligtelse til ikke-spredning af atomvåben.&lt;/p&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 08:54:00 GMT</pubDate>
+      <author>AF MARKETWIRE ‎</author>
+      <source>EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)</source>
     </item>
   </channel>
 </rss>
