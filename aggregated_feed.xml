@@ -4,14 +4,38 @@
     <title>Aggregeret Feed</title>
     <description>Samlet feed fra multiple kilder</description>
     <link>http://localhost/</link>
-    <lastBuildDate>Fri, 04 Jul 2025 09:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 09:09:14 +0000</lastBuildDate>
+    <item>
+      <title>Fredagens noter: Jeudan, Arp-Hansen, A. Enggaard, Engel &amp; Völkers, Koncenton, NPV, 3C Holding, Catena, Esbjerg</title>
+      <link>https://ejendomswatch.dk/Ejendomsnyt/article18337487.ece?utm_source=Feed&amp;utm_medium=latest</link>
+      <description>&lt;p&gt;OVERBLIK: Læs stort og småt fra ejendomsbranchen i hele landet. &lt;/p&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 09:05:00 GMT</pubDate>
+      <author>AF REDAKTIONEN</author>
+      <source>EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)</source>
+    </item>
+    <item>
+      <title>Air France-KLM ønsker kontrol over SAS</title>
+      <link>https://kapwatch.dk/nyheder/investeringsselskaber/article18337325.ece?utm_source=Feed&amp;utm_medium=latest</link>
+      <description>&lt;p&gt;Air France-KLM vil øge sin aktieandel i SAS fra de nuværende 19,9 pct. til 60,5 pct. ved at overtage de SAS-aktier, som i dag er ejet af investorerne Castlelake og Lind Invest.&lt;/p&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 09:04:00 GMT</pubDate>
+      <author>AF JENS THOMSEN, CASPER NØRREGAARD</author>
+      <source>KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)</source>
+    </item>
+    <item>
+      <title>Speditører og rederier holder vejret i håb om toldaftale mellem EU og USA</title>
+      <link>https://mobilitywatch.dk/nyheder/fragt_logistik/article18337775.ece?utm_source=Feed&amp;utm_medium=latest</link>
+      <description>&lt;p&gt;”Hvis man er speditør, ser det ikke godt ud i øjeblikket,” siger Xeneta-analytiker.&lt;/p&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 09:04:00 GMT</pubDate>
+      <author>AF KIT LINDHARDT, JENS THOMSEN</author>
+      <source>MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)</source>
+    </item>
     <item>
       <title>To dræbt i missilangreb på havnen i Odesa</title>
       <link>https://shippingwatch.dk/Rederier/Toerlast/article18337354.ece?utm_source=Feed&amp;utm_medium=latest</link>
       <description>&lt;p&gt;Et missil ramte ifølge ukrainsk minister torsdag ned på et område af havnen, hvor arbejdere var ved at losse metal fra et skib.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:55:00 GMT</pubDate>
       <author>AF KIT LINDHARDT</author>
-      <source>ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Olien falder en smule efter Irans bekræftelse af atomforpligtelse</title>
@@ -19,7 +43,7 @@
       <description>&lt;p&gt;Iran har bekræftet sin forpligtelse til ikke-spredning af atomvåben.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:54:00 GMT</pubDate>
       <author>AF MARKETWIRE ‎</author>
-      <source>EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'} ({'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Kina undlader told på visse europæiske cognac-mærker</title>
@@ -27,7 +51,7 @@
       <description>&lt;p&gt;Høj generel kinesisk told indføre på fransk cognac. Samtidig varsler USA toldbetaling fra august, lyder det fra præsident Donald Trump.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:47:00 GMT</pubDate>
       <author>AF MARKETWIRE ‎</author>
-      <source>FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'} ({'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Danske Bank ligger i bund på grønt image</title>
@@ -35,7 +59,7 @@
       <description>&lt;p&gt;Merkur Andelskasse ligger i toppen af Voxmeters måling.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:46:00 GMT</pubDate>
       <author>AF MARTINE THORSAGER STOCK</author>
-      <source>FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Ny direktør hos dansk robotudvikler: Klar til skalering og innovation</title>
@@ -43,7 +67,7 @@
       <description>&lt;p&gt;Kristian Hald skal fra august være direktør i robotvirksomheden Turf Tank. Hans opgaver bliver opskalering og at håndtere underskuddet på 41 mio. kr.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:30:00 GMT</pubDate>
       <author>AF Nicolai Devantier</author>
-      <source>ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'} ({'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Lakrids-duo sælger legetøjsbrand til designselskab efter år med tab</title>
@@ -51,7 +75,7 @@
       <description>&lt;p&gt;Efter en lettere turbulent tid for tumlelegetøjsbrandet Bobles har de seneste ejere Johan Bülow og Fredrik Nilsson sendt aktiverne ind i investeringsselskab. &lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:26:00 GMT</pubDate>
       <author>AF FREJA CELINE ERIKSEN</author>
-      <source>KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'} ({'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Saxo mærker større interesse for digitale formater i ferien</title>
@@ -59,7 +83,7 @@
       <description>&lt;p&gt;Præferencen for fysiske bøger falder over sommerferien, mens efterspørgslen efter e-bøger og lydbøger stiger, viser undersøgelse.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:26:00 GMT</pubDate>
       <author>AF Morten Bank</author>
-      <source>MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Donald Trump vil have toldbetaling ved kasse 1 fra 1. august</title>
@@ -67,7 +91,7 @@
       <description>&lt;p&gt;10-12 breve forventes at blive sendt ud til handelspartnere med ensidige toldsatser, fortæller den amerikanske præsident.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:25:00 GMT</pubDate>
       <author>AF MARKETWIRE ‎</author>
-      <source>DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'} ({'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>USA indfører nye sanktioner mod iransk olieeksport</title>
@@ -75,7 +99,7 @@
       <description>&lt;p&gt;Sanktionerne er rettet mod skibe og virksomheder, som siges at have transporteret millioner af ton ulovlig olie og olieprodukter.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:22:00 GMT</pubDate>
       <author>AF Daniela De Lorenzo</author>
-      <source>ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Danish Crown løfter prognose: Venter en halv million flere grise</title>
@@ -83,7 +107,7 @@
       <description>&lt;p&gt;Svineproducenter har skruet op for produktionen, så Danish Crown nu venter en halv million flere grise end tidligere.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:20:00 GMT</pubDate>
       <author>AF JONAS OKHOLM NIELSEN</author>
-      <source>FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'} ({'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>EU's naboer indgår Mercosur-frihandelsaftale</title>
@@ -91,7 +115,7 @@
       <description>&lt;p&gt;Aftalen, som har været længe undervejs i EU, betyder reducerede eller helt skrottede toldsatser på landbrugsvarer. &lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:19:00 GMT</pubDate>
       <author>AF JOACHIM KREJBERG KNUDSEN</author>
-      <source>AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'} ({'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Hofor skriver kontrakter til milliardrenovering af vandanlæg</title>
@@ -99,7 +123,7 @@
       <description>&lt;p&gt;Renoveringen skal efter planen være færdig i 2031.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:16:00 GMT</pubDate>
       <author>AF FREDERIK TIMM BENTSEN</author>
-      <source>CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'} ({'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Ejendomsveteran &quot;holder krudtet tørt&quot; og jagter langt bedre bundlinje</title>
@@ -107,7 +131,7 @@
       <description>&lt;p&gt;Proark-koncernens ejer og direktør er knap så tilfredse med årets resultat og vil vende udviklingen med en ny strategi, fortæller de til EjendomsWatch.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 08:01:00 GMT</pubDate>
       <author>AF FREDERIK STRØM KRISTENSEN</author>
-      <source>EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Rederier og speditører holder vejret i håb om toldaftale mellem EU og USA</title>
@@ -115,7 +139,7 @@
       <description>&lt;p&gt;Usikkerhed dominerer det globale fragtmarked. Handlen mellem Europa og USA er dog stabil.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 07:56:00 GMT</pubDate>
       <author>AF KIT LINDHARDT, JENS THOMSEN</author>
-      <source>ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Forsyningstilsynet politianmelder elselskab</title>
@@ -123,7 +147,7 @@
       <description>&lt;p&gt;Forsyningstilsynet har politianmeldt elnetvirksomhed for overtrædelse af udbudsregler. &lt;i&gt;Opdateret&lt;/i&gt;&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 07:51:00 GMT</pubDate>
       <author>AF JAKOB SKOUBOE</author>
-      <source>EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'} ({'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>USA's finansminister: 100 lande får gengældelsestold på 10 pct.</title>
@@ -131,7 +155,7 @@
       <description>&lt;p&gt;”Europas samlede handel med USA er så stor, at vi ønsker en principaftale,” siger EU-Kommissionens formand Ursula von der Leyen.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 07:50:00 GMT</pubDate>
       <author>AF MARKETWIRE ‎</author>
-      <source>DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'} ({'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Østjysk drikkevareselskab åbner for at blive solgt</title>
@@ -139,31 +163,7 @@
       <description>&lt;p&gt;Aarhusianske Bevco har strammet forretningen op og ser nu større potentiale i at komme under nyt ejerskab, melder direktør.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 07:50:00 GMT</pubDate>
       <author>AF TORBEN SALOMONSEN</author>
-      <source>FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)</source>
-    </item>
-    <item>
-      <title>Jyske Banks nyeste direktør er på udebane i et nyt land: &quot;Det var nu, jeg kunne forfølge den her drøm&quot;</title>
-      <link>https://finanswatch.dk/Finansnyt/Pengeinstitutter/article18308743.ece?utm_source=Feed&amp;utm_medium=latest</link>
-      <description>&lt;p&gt;Jyske Banks nye stemme har forladt sit hjemland med et mål om at udfordre sig selv. &lt;/p&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 07:48:00 GMT</pubDate>
-      <author>AF SOFIE HØJLUND</author>
-      <source>FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)</source>
-    </item>
-    <item>
-      <title>Nyt forretningsben sætter skub i A4 Mediers jagt på sorte tal</title>
-      <link>https://mediawatch.dk/Medienyt/Aviser/article18317432.ece?utm_source=Feed&amp;utm_medium=latest</link>
-      <description>&lt;p&gt;Det selverklærede medie for den danske model har ”ramt en åre” og vil nu balancere at investere i vækst med kampen få at producere sorte tal.&lt;/p&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 07:45:00 GMT</pubDate>
-      <author>AF Morten Bank</author>
-      <source>MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)</source>
-    </item>
-    <item>
-      <title>Vindbranchen: Kritiske teknologier til vindmøller skal holdes på europæiske hænder</title>
-      <link>https://energiwatch.dk/Energinyt/vind/article18283891.ece?utm_source=Feed&amp;utm_medium=latest</link>
-      <description>&lt;p&gt;Det er en af industriens helt store dilemmaer: Skal Europa kunne alt selv eller acceptere kinesiske produkter? Det bliver dyrt uden Kina, men farligt at give ”stopknappen” væk til de danske møller.&lt;/p&gt;</description>
-      <pubDate>Fri, 04 Jul 2025 07:41:00 GMT</pubDate>
-      <author>AF LAURA KOLD</author>
-      <source>EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'} ({'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'})</source>
     </item>
   </channel>
 </rss>
