@@ -4,14 +4,22 @@
     <title>Aggregeret Feed</title>
     <description>Samlet feed fra multiple kilder</description>
     <link>http://localhost/</link>
-    <lastBuildDate>Fri, 04 Jul 2025 12:10:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 12:13:21 +0000</lastBuildDate>
+    <item>
+      <title>Strid afgjort om overrevet søkabel og mørkelagt Bornholm</title>
+      <link>https://energiwatch.dk/Energinyt/Politik___Markeder/article18338924.ece?utm_source=Feed&amp;utm_medium=latest</link>
+      <description>&lt;p&gt;Det overrevne kabel resulterede i en omfattende strømafbrydelse på øen.&lt;/p&gt;</description>
+      <pubDate>Fri, 04 Jul 2025 12:10:00 GMT</pubDate>
+      <author>AF MARKETWIRE ‎</author>
+      <source>EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)</source>
+    </item>
     <item>
       <title>Avisen Danmark har fundet sin chefredaktør: &quot;Slut med midlertidigheden&quot;</title>
       <link>https://mediawatch.dk/Medienyt/Aviser/article18338290.ece?utm_source=Feed&amp;utm_medium=latest</link>
       <description>&lt;p&gt;Casper Dall er fremover både chefredaktør og politisk redaktør på JFM’s Avisen Danmark.&lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 12:07:00 GMT</pubDate>
       <author>AF Cecilie Hänsch Emanuel</author>
-      <source>MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Biocirc vil sende obligationer på børsen</title>
@@ -19,7 +27,7 @@
       <description>&lt;p&gt;Et netop offentliggjort prospekt fra biogaskoncernen viser, at selskabet vil sende obligationer på Københavns Fondsbørs for over en halv mia. kr. &lt;/p&gt;</description>
       <pubDate>Fri, 04 Jul 2025 12:05:00 GMT</pubDate>
       <author>AF JOACHIM KREJBERG KNUDSEN</author>
-      <source>CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'} ({'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'})</source>
     </item>
   </channel>
 </rss>
