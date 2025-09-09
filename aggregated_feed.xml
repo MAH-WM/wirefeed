@@ -4,14 +4,22 @@
     <title>Aggregeret Feed</title>
     <description>Samlet feed fra multiple kilder</description>
     <link>http://localhost/</link>
-    <lastBuildDate>Tue, 09 Sep 2025 12:43:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 12:46:31 +0000</lastBuildDate>
+    <item>
+      <title>Lundbeck lukker kommercielle afdelinger: Indgår partnerskaber for 27 markeder</title>
+      <link>https://medwatch.dk/strategi/article18519990.ece?utm_source=Feed&amp;utm_medium=latest</link>
+      <description>&lt;p&gt;Over 600 medarbejdere vil blive berørt. (Opdateres)&lt;/p&gt;</description>
+      <pubDate>Tue, 09 Sep 2025 12:42:00 GMT</pubDate>
+      <author>AF Anja Hauge</author>
+      <source>MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)</source>
+    </item>
     <item>
       <title>Britisk cafékæde nedskriver med milliarder</title>
       <link>https://detailwatch.dk/nyheder/dagligvarer/article18519750.ece?utm_source=Feed&amp;utm_medium=latest</link>
       <description>&lt;p&gt;Der er stadig ønske og muligheder for en børsnotering af britiske Pret A Manger, lyder det fra direktør.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 12:30:00 GMT</pubDate>
       <author>AF LINUS CALOV JACOBSEN</author>
-      <source>DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'} ({'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Danpilots topchef fratræder</title>
@@ -19,7 +27,7 @@
       <description>&lt;p&gt;Afgangen sker efter eget valg ifølge en meddelelse. (Opdateres.)&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 12:28:00 GMT</pubDate>
       <author>AF Jens Thomsen, Liv Almer</author>
-      <source>ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Danepork skal levere til britisk supermarkedskæde</title>
@@ -27,7 +35,7 @@
       <description>&lt;p&gt;Slagteriet, der vil slagte 72.000 svin om ugen, lander ny aftale.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 12:15:00 GMT</pubDate>
       <author>AF Joachim Krejberg Knudsen</author>
-      <source>AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'} ({'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Antallet af pensionsmillionærer slår rekord</title>
@@ -35,7 +43,7 @@
       <description>&lt;p&gt;Der er tale om mere end en fordobling siden 2014.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 12:15:00 GMT</pubDate>
       <author>AF MARTINE THORSAGER STOCK</author>
-      <source>FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Forskere advarer: stop udskrivelse af opioider</title>
@@ -43,7 +51,7 @@
       <description>&lt;p&gt;Otte danske forskere advarer mod udskrivning af opioider til rygsmerter, men Sundhedsstyrelsen lægger op til nye anbefalinger.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 12:15:00 GMT</pubDate>
       <author>AF VANESSA ALEXANDRA KJÆR</author>
-      <source>MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)'} ({'title': 'MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Advokater samler kræfterne frem mod IBA-konference i Danmark: &quot;Enestående mulighed&quot;</title>
@@ -51,7 +59,7 @@
       <description>&lt;p&gt;Syv større advokatvirksomheder er repræsenteret i såkaldt koordinationsforum, der netop har holdt kickoffmøde. ”Det handler om, hvordan vi kan udnytte platformen,” siger Advokatrådets formand.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 12:07:00 GMT</pubDate>
       <author>AF Andreas Vestergaard</author>
-      <source>AdvokatWatch - seneste nyt (http://advokatwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'AdvokatWatch - seneste nyt (http://advokatwatch.dk/rss/seneste.rss)'} ({'title': 'AdvokatWatch - seneste nyt (http://advokatwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Aalborg Havn løfter forventningerne efter første halvår</title>
@@ -59,7 +67,7 @@
       <description>&lt;p&gt;Omsætningen og resultatet ligger dog under niveauet fra første halvdel af 2024.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 12:02:00 GMT</pubDate>
       <author>AF Jakob Skovlund Hansen</author>
-      <source>MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'} ({'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Pensionsselskaber holder resultat af TDC-investering tæt til kroppen</title>
@@ -67,7 +75,7 @@
       <description>&lt;p&gt;Det er uvist, hvilket afkast PFA, ATP og PKA ender med, når og hvis salget af TDC bliver endeligt.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 12:01:00 GMT</pubDate>
       <author>AF THOMAS NYGAARD MADSEN</author>
-      <source>ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'} ({'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Løbekæde åbner flagskibsbutik i tidligere Sportmaster-lokaler</title>
@@ -75,7 +83,7 @@
       <description>&lt;p&gt;Den nye butik, der åbner i slutningen af oktober, ligger klos op ad landets største atletikklub og bliver kædens nye flagskibsbutik.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 12:00:00 GMT</pubDate>
       <author>AF ALEXANDER THORUP JENSEN</author>
-      <source>DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'} ({'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Tysker dømt: Tilstår forsøg på at sælge Velux-hemmeligheder</title>
@@ -83,7 +91,7 @@
       <description>&lt;p&gt;En tidligere Velux-chef blev i 2020 idømt to års fængsel for industrispionage. Nu tilstår medtiltalt tysker.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 12:00:00 GMT</pubDate>
       <author>AF RITZAU ‎</author>
-      <source>EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'} ({'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Danmark arbejder på at gøre Ukraine EU-klar til 2030</title>
@@ -91,7 +99,7 @@
       <description>&lt;p&gt;Selv om Ungarn blokerer for at åbne forhandlingerne, vil Danmark hjælpe Ukraine med at gennemføre reformer.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 11:53:00 GMT</pubDate>
       <author>AF RITZAU ‎</author>
-      <source>PolicyWatch - seneste nyt (http://policywatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'PolicyWatch - seneste nyt (http://policywatch.dk/rss/seneste.rss)'} ({'title': 'PolicyWatch - seneste nyt (http://policywatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Gartneriejer skyder efter ministers argumenter for moms</title>
@@ -99,7 +107,7 @@
       <description>&lt;p&gt;Nordic Greens-direktør holder fast i lavere moms på frugt og grønt – peger mod udlandet.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 11:50:00 GMT</pubDate>
       <author>AF Torben Salomonsen</author>
-      <source>PolicyWatch - seneste nyt (http://policywatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'PolicyWatch - seneste nyt (http://policywatch.dk/rss/seneste.rss)'} ({'title': 'PolicyWatch - seneste nyt (http://policywatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Mærsk advarer om ekstragebyr i Bremerhaven på grund af sporarbejde</title>
@@ -107,7 +115,7 @@
       <description>&lt;p&gt;Mærsk arbejder på alternative løsninger for at sikre containerstrømmen. Den ekstra kapacitet vil dog være begrænset og medføre højere omkostninger, lyder det.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 11:45:00 GMT</pubDate>
       <author>AF Liv Almer</author>
-      <source>MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'} ({'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Over 17 millioner så med på Youtubes første NFL-kamp</title>
@@ -115,7 +123,7 @@
       <description>&lt;p&gt;Youtubes første store skridt ind i verden som rettighedsholder blev set af millioner af mennesker i og uden for USA.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 11:42:00 GMT</pubDate>
       <author>AF Emil Rømer Olsen</author>
-      <source>MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Grønlandsk mineralselskab rejser knap 50 millioner kroner</title>
@@ -123,7 +131,7 @@
       <description>&lt;p&gt;Rock Flour Company vil udnytte potentialet i mineralet gletsjermel, der ifølge selskabet kan opfange CO2 og reducere landbrugets miljøpåvirkning.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 11:40:00 GMT</pubDate>
       <author>AF Frederik Timm Bentsen</author>
-      <source>CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'} ({'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Mærsk advarer om ekstragebyr i Bremerhaven på grund af sporarbejde</title>
@@ -131,7 +139,7 @@
       <description>&lt;p&gt;Mærsk arbejder på alternative løsninger for at sikre containerstrømmen. Den ekstra kapacitet vil dog være begrænset og medføre højere omkostninger, lyder det.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 11:38:00 GMT</pubDate>
       <author>AF Liv Almer</author>
-      <source>ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>International rådgiver indtager Danmark – erfaren profil står i spidsen</title>
@@ -139,7 +147,7 @@
       <description>&lt;p&gt;For nylig gjorde en anden nordisk skatterådgiver sin entré på det danske marked.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 11:37:00 GMT</pubDate>
       <author>AF JOSEPHINE BUUR BACH</author>
-      <source>AdvokatWatch - seneste nyt (http://advokatwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'AdvokatWatch - seneste nyt (http://advokatwatch.dk/rss/seneste.rss)'} ({'title': 'AdvokatWatch - seneste nyt (http://advokatwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Læs alt om private penge i sundhedssektoren</title>
@@ -147,7 +155,7 @@
       <description>&lt;p&gt;I en serie har MedWatch sat fokus på de økonomiske pengestrømme mellem dansk sundhedspersonale og selskaberne i life science-sektoren. Læs alle artiklerne her.&lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 11:34:00 GMT</pubDate>
       <author>AF Anja Hauge, Ellen Birkner</author>
-      <source>MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)'} ({'title': 'MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Kapitalfondsejet forsikringsformidler: Dansk marked &quot;ekstremt svært&quot; at komme ind på</title>
@@ -155,15 +163,7 @@
       <description>&lt;p&gt;Forsikringsformidleren Easysure har bygget sit selskab på sydafrikansk teknologi og en svensk licens. Direktør Søren Odgaard Johansen kalder strukturen ”kompliceret”, men ”den fungerer godt for os.” &lt;/p&gt;</description>
       <pubDate>Tue, 09 Sep 2025 11:33:00 GMT</pubDate>
       <author>AF MIKKEL KJÆR, MARTINE THORSAGER STOCK</author>
-      <source>KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)</source>
-    </item>
-    <item>
-      <title>PKA Ejendomme vil svanemærke hele baduljen: Øger økonomisk effektivitet</title>
-      <link>https://ejendomswatch.dk/Ejendomsnyt/esg/article18517459.ece?utm_source=Feed&amp;utm_medium=latest</link>
-      <description>&lt;p&gt;PKA Ejendomme har som mål at svanemærke driften på en tredjedel af ejendommene inden 2026. Initiativet skal fremtidssikre porteføljen, lyder det fra ESG-chef.&lt;/p&gt;</description>
-      <pubDate>Tue, 09 Sep 2025 11:24:00 GMT</pubDate>
-      <author>AF Mathilde Ranners</author>
-      <source>EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'} ({'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'})</source>
     </item>
   </channel>
 </rss>
