@@ -4,14 +4,22 @@
     <title>Aggregeret Feed</title>
     <description>Samlet feed fra multiple kilder</description>
     <link>http://localhost/</link>
-    <lastBuildDate>Fri, 19 Sep 2025 07:23:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 07:26:52 +0000</lastBuildDate>
+    <item>
+      <title>Efterspørgselsbekymringer får oliepriserne til at falde</title>
+      <link>https://mobilitywatch.dk/nyheder/fragt_logistik/article18553381.ece?utm_source=Feed&amp;utm_medium=latest</link>
+      <description>&lt;p&gt;De primære motorer bag faldet er et svagere amerikansk arbejdsmarked og en uventet stor stigning i de amerikanske destillatlagre.&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Sep 2025 07:25:00 GMT</pubDate>
+      <author>AF MARKETWIRE ‎</author>
+      <source>MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)</source>
+    </item>
     <item>
       <title>Skyggehoteller skyder op i magtesløst København: &quot;Det vilde vesten&quot;</title>
       <link>https://ejendomswatch.dk/Ejendomsnyt/Investorer/article18541178.ece?utm_source=Feed&amp;utm_medium=latest</link>
       <description>&lt;p&gt;Der er tæt på frit spil, hvis man vil agere hoteludlejer på online-platforme. Københavns Kommune oplyser til EjendomsWatch, at en evaluering af reglerne er undervejs.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 07:20:00 GMT</pubDate>
       <author>AF Frederik Strøm Kristensen</author>
-      <source>EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Efterspørgselsbekymringer får oliepriserne til at falde</title>
@@ -19,7 +27,7 @@
       <description>&lt;p&gt;”Markedet er fanget mellem modstridende signaler.” &lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 07:16:00 GMT</pubDate>
       <author>AF MARKETWIRE ‎</author>
-      <source>EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'} ({'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Nyt ESG-værktøj klar til brug: &quot;Nu får vi fælles målepunkter og sprog&quot;</title>
@@ -27,7 +35,7 @@
       <description>&lt;p&gt;Et nyt databaseret værktøj, udviklet af brancheaktører, stiller 20 ESG-målepunkter klar for den almene sektor. Både projeksekreteriat og boligorganisation oplever stor opbakning i branchen. &lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 07:10:00 GMT</pubDate>
       <author>AF Emil Malm Kristensen</author>
-      <source>{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Fagforeninger og kendisser forsvarer Kimmel efter nedlægning af talkshow</title>
@@ -35,7 +43,7 @@
       <description>&lt;p&gt;Det er et brud på ytringsfriheden, at ABC har nedlagt Jimmy Kimmels talkshow, lyder det fra Hollywood.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 07:04:00 GMT</pubDate>
       <author>AF RITZAU ‎</author>
-      <source>{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Medie: Kapitalfond forbereder salg af Ganni i milliardhandel</title>
@@ -43,7 +51,7 @@
       <description>&lt;p&gt;Den britiske kapitalfond ønsker at afhænde den danske modevirksomhed, der de seneste år har salgsøgt en lang række konkurrenter, fortæller flere kilder til Børsen.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 07:02:00 GMT</pubDate>
       <author>AF Alexander Thorup</author>
-      <source>{'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'} ({'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'} ({'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'} ({'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Danmark vil spare penge ved at gøre EU-regler simplere</title>
@@ -51,7 +59,7 @@
       <description>&lt;p&gt;EU-regler koster hvert år milliarder af euro at opfylde for virksomheder og offentlige myndigheder, lyder det.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 07:01:00 GMT</pubDate>
       <author>AF RITZAU ‎</author>
-      <source>{'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'} ({'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'} ({'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'} ({'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Verdens største kødproducent ser opkøbsmuligheder i Europa</title>
@@ -59,7 +67,7 @@
       <description>&lt;p&gt;Ekspansion i Brasilien og i USA er udelukket, da JBS sidder for tungt på markedet. &lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:59:00 GMT</pubDate>
       <author>AF Joachim Krejberg Knudsen</author>
-      <source>{'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'} ({'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'} ({'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'} ({'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Efterspørgselsbekymringer får oliepriserne til at falde</title>
@@ -67,7 +75,7 @@
       <description>&lt;p&gt;Onsdag besluttede den amerikanske centralbank, Federal Reserve, at sænke renten og indikerede yderligere fremtidige nedsættelser som følge af tegn på et svagere arbejdsmarked.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:52:00 GMT</pubDate>
       <author>AF MARKETWIRE ‎</author>
-      <source>{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Medie: Kapitalfond forbereder salg af Ganni i milliardhandel</title>
@@ -75,7 +83,7 @@
       <description>&lt;p&gt;Den britiske kapitalfond ønsker at afhænde den danske modevirksomhed, der de seneste år har salgsøgt en lang række konkurrenter, fortæller flere kilder til Børsen.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:51:00 GMT</pubDate>
       <author>AF Alexander Thorup</author>
-      <source>{'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'} ({'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'} ({'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'} ({'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>AI kan &quot;transformere&quot; logistiksektor - men datamangel står i vejen</title>
@@ -83,7 +91,7 @@
       <description>&lt;p&gt;Ikke desto mindre er næsten halvdelen af de ansatte overbeviste om, at AI vil laver store ændringer i speditionsbranchen over de kommende år. &lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:50:00 GMT</pubDate>
       <author>AF METTE GRUBE CONDRUP</author>
-      <source>{'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'} ({'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'} ({'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'} ({'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Konservativ formand vil bremse stigningen i førtidspensionister</title>
@@ -91,7 +99,7 @@
       <description>&lt;p&gt;Det skal bl.a. ske gennem tusindvis af årlige revurderinger.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:42:00 GMT</pubDate>
       <author>AF Martine Thorsager Stock</author>
-      <source>{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Musikbranche frygter at miste milliarder i kapløb mod AI-musik</title>
@@ -99,7 +107,7 @@
       <description>&lt;p&gt;Nye tjenester kan genere musik ved brug af kunstig intelligens. Det kan presse musikeres økonomi på sigt. &lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:38:00 GMT</pubDate>
       <author>AF RITZAU ‎</author>
-      <source>{'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'} ({'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'} ({'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'} ({'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Fredagens konkurser: Fynsk ejendomsselskab krakker</title>
@@ -107,7 +115,7 @@
       <description>&lt;p&gt;Dagens oversigt fra Statstidende byder på 43 konkurser og en enkelt dekretophævelse, der blandt andet inkluderer en række entreprenører og håndværkere.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:27:00 GMT</pubDate>
       <author>AF REDAKTIONEN</author>
-      <source>{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Bornholms Tidende slår betalingsmur ned for unge og satser på gevinst om 12-15 år</title>
@@ -115,7 +123,7 @@
       <description>&lt;p&gt;Bornholms Tidende fjerner sin betalingsmur på netværket hos uddannelsescenter. Det er ikke et forsøg på at være ”ung med de unge”, siger direktør. &lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:25:00 GMT</pubDate>
       <author>AF Stefan Nygaard</author>
-      <source>{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>&quot;Jeg kan godt lide at hjælpe nogen&quot;: Advokat tager skridt op inden for life science</title>
@@ -123,7 +131,7 @@
       <description>&lt;p&gt;Advokaten Ane Astrup kalder strategisk sparring ”et nyt element” i hendes nye job hos life science-virksomheden Roche, hvor hun vil være med til at hjælpe mennesker.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:20:00 GMT</pubDate>
       <author>AF IDA KRAMHØFT JENSEN</author>
-      <source>{'title': 'MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)'} ({'title': 'MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)'} ({'title': 'MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)'} ({'title': 'MedWatch - seneste nyt (http://medwatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Nationalbanken vil udstede nye grønne obligationer</title>
@@ -131,7 +139,7 @@
       <description>&lt;p&gt;Obligationerne lever op til EU’s nye standard.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:17:00 GMT</pubDate>
       <author>AF Martine Thorsager Stock</author>
-      <source>{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Regeringen vil hæve bøden for at sprede gylle på frosne marker</title>
@@ -139,7 +147,7 @@
       <description>&lt;p&gt;Minister for Grøn Trepart Jeppe Bruus kalder det ”komplet uacceptabelt”, at gylle bliver spredt ulovligt til skade for vandmiljøet.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:14:00 GMT</pubDate>
       <author>AF RITZAU ‎</author>
-      <source>{'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'} ({'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'} ({'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'} ({'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Made in Copenhagen-film valgt som dansk Oscar-kandidat</title>
@@ -147,7 +155,7 @@
       <description>&lt;p&gt;Dokumentarfilmen ”Mr. Nobody Against Putin” er indstillet som Danmarks Oscar-kandidat.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:10:00 GMT</pubDate>
       <author>AF Cecilie Hänsch Emanuel</author>
-      <source>{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
     <item>
       <title>Regeringen vil hæve bøden for at sprede gylle på frosne marker</title>
@@ -155,15 +163,7 @@
       <description>&lt;p&gt;Minister for Grøn Trepart Jeppe Bruus kalder det ”komplet uacceptabelt”, at gylle bliver spredt ulovligt.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Sep 2025 06:05:00 GMT</pubDate>
       <author>AF RITZAU ‎</author>
-      <source>{'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'} ({'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'})</source>
-    </item>
-    <item>
-      <title>Norsk kapitalfond gør sin entré i Danmark</title>
-      <link>https://kapwatch.dk/nyheder/m_a/article18542635.ece?utm_source=Feed&amp;utm_medium=latest</link>
-      <description>&lt;p&gt;Equip Capital køber dansk rejseoperatør og vil skabe regional storspiller. Partner ser Danmark som ”vældig spændende” for investeringer.&lt;/p&gt;</description>
-      <pubDate>Fri, 19 Sep 2025 06:05:00 GMT</pubDate>
-      <author>AF Ole Andersen</author>
-      <source>{'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'} ({'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'})</source>
+      <source>{'title': &quot;{'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'} ({'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'})&quot;} ({'title': &quot;{'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'} ({'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'})&quot;})</source>
     </item>
   </channel>
 </rss>
