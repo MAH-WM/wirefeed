@@ -4,14 +4,22 @@
     <title>Aggregeret Feed</title>
     <description>Samlet feed fra multiple kilder</description>
     <link>http://localhost/</link>
-    <lastBuildDate>Wed, 12 Nov 2025 10:53:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 10:53:41 +0000</lastBuildDate>
+    <item>
+      <title>Revolut og SAS indgår partnerskab</title>
+      <link>https://finanswatch.dk/Finansnyt/Fintech/article18733197.ece?utm_source=Feed&amp;utm_medium=latest</link>
+      <description>&lt;p&gt;Brugerne af onlinebanken Revolut kan fremover forvandle deres kundepoint til Eurobonuspoint hos SAS. &lt;/p&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 10:48:00 GMT</pubDate>
+      <author>AF DORTHE BACH</author>
+      <source>FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)</source>
+    </item>
     <item>
       <title>Barry Callebaut indgår samarbejde med chokoladealternativ</title>
       <link>https://fodevarewatch.dk/international/article18730310.ece?utm_source=Feed&amp;utm_medium=latest</link>
       <description>&lt;p&gt;Chokoladeproducenten ser fortsat kakao som sin kerneforretning, men samarbejdet åbner op for løsninger i et udfordret kakaomarked. &lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:40:00 GMT</pubDate>
       <author>AF REDAKTIONEN</author>
-      <source>FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'} ({'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Vestas skærer 900 stillinger – blandt andet i Danmark</title>
@@ -19,7 +27,7 @@
       <description>&lt;p&gt;Heraf rammer reduktionen 190 primært kontoransatte i Danmark.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:35:00 GMT</pubDate>
       <author>AF MARKETWIRE ‎</author>
-      <source>EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'} ({'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Apple TV flytter ind på Allente</title>
@@ -27,7 +35,7 @@
       <description>&lt;p&gt;Tidligere i år kom Prime Video med i Allentes udbud. Nu følger Apple TV trop.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:34:00 GMT</pubDate>
       <author>AF Morten Bank</author>
-      <source>MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Kingo og nordmænd sparker stort opslået genvindingssats til hjørne</title>
@@ -35,7 +43,7 @@
       <description>&lt;p&gt;Direktør kaldte planer om dansk genvindingsanlæg til udtjente møllevinger for ”et betydeligt skridt mod en grønnere fremtid”. Nu svæver planerne for anlægget i det uvisse.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:27:00 GMT</pubDate>
       <author>AF Frederik Timm Bentsen</author>
-      <source>CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'} ({'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Better Energy får godkendt redningsplan der sætter milliardgæld på pause</title>
@@ -43,7 +51,7 @@
       <description>&lt;p&gt;Samtlige af Better Energys kreditorer har stemt for forslaget, som betyder, at selskabet nu ikke længere er under rekonstruktion, men at kreditorerne vil tabe milliarder.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:27:00 GMT</pubDate>
       <author>AF LAURA KOLD</author>
-      <source>KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'} ({'title': 'KapitalWatch - seneste nyt (http://kapwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Imerco-ejer køber bygning i trecifret millionhandel</title>
@@ -51,7 +59,7 @@
       <description>&lt;p&gt;I bygningen holder bl.a. brugskunstforretningen Studio Arhøj til. Sælger er erhvervsduoen bag barimperiet Rekom&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:25:00 GMT</pubDate>
       <author>AF Emil Birkeland Klintorp</author>
-      <source>DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'} ({'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Betalingsvirksomhed udvider i Norden og indgår partnerskab med FC København</title>
@@ -59,7 +67,7 @@
       <description>&lt;p&gt;Ebury skal blandt andet hjælpe fodboldklubben med at optimere valutatransaktioner på tværs af grænser.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:25:00 GMT</pubDate>
       <author>AF Emil Tønnesen</author>
-      <source>FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Dan-Bunkering rykker chef for nye brændstoffer til København</title>
@@ -67,7 +75,7 @@
       <description>&lt;p&gt;Beslutningen er strategisk og skal styrke bunkerselskabets position inden for nye brændstoffer i Europa. &lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:21:00 GMT</pubDate>
       <author>AF Christian Moess Laursen</author>
-      <source>ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Seneste tinglyste handler: To transaktioner med ni cifre</title>
@@ -75,7 +83,7 @@
       <description>&lt;p&gt;M. Goldschmidt Ejendommes handel med folkene bag barkoncernen Rekom topper dagens liste med i alt 19 handler til mindst 15 mio. kr.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:15:00 GMT</pubDate>
       <author>AF REDAKTIONEN</author>
-      <source>EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Trecifret millionindsprøjtning skal få investeringsplatform hurtigere ud i verden</title>
@@ -83,7 +91,7 @@
       <description>&lt;p&gt;Med ny investor i ryggen vil Endavu bl.a. udvikle ny platform rettet mod velhavere.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:15:00 GMT</pubDate>
       <author>AF Thomas Nygaard Madsen</author>
-      <source>ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'} ({'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Over 100 landmænd har berettet om udfordringer med Bovaer</title>
@@ -91,7 +99,7 @@
       <description>&lt;p&gt;Seges-notat viser udfordringer hos en mængde landbrug.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:14:00 GMT</pubDate>
       <author>AF Dorte Stenbæk Bro, RITZAU ‎</author>
-      <source>AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'} ({'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Organisation: Hr. og Fru Danmark kører gerne langt for kvalitetsvarer</title>
@@ -99,7 +107,7 @@
       <description>&lt;p&gt;Der er på trods af høje fødevarepriser medvind at spore i de danske slagterbutikker, bagerier og fiskehandlere, melder brancheorganisationen Fødevaredanmark.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:12:00 GMT</pubDate>
       <author>AF Sophie Lund Møller</author>
-      <source>FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'} ({'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Andel lancerer batteriløsning til private</title>
@@ -107,7 +115,7 @@
       <description>&lt;p&gt;Energikoncernen lancerer nu hjemmebatterier, der skal gøre det muligt for private at købe strøm billigst og bruge den effektivt.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:04:00 GMT</pubDate>
       <author>AF VIKTOR BRANDT KÆRGAARD</author>
-      <source>EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'} ({'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Everllence lancerer længe ventet ammoniakmotor til shipping</title>
@@ -115,7 +123,7 @@
       <description>&lt;p&gt;Everllence introducerer i dag en ammoniakdreven motor. Teknologien er afgørende for skibsfartens mulighed for at blive klimaneutral. &lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:04:00 GMT</pubDate>
       <author>AF METTE GRUBE CONDRUP</author>
-      <source>ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Goldschmidt og barkonger i trecifret millionhandel med historisk bygning</title>
@@ -123,7 +131,7 @@
       <description>&lt;p&gt;Pressens Hus i indre København skifter hænder efter at have været ejet af folkene bag barkoncern de seneste syv år. ”En sjælden kombination af historisk og moderne arkitektur,” lyder det fra køber.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:03:00 GMT</pubDate>
       <author>AF Emil Birkeland Klintorp</author>
-      <source>EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>NTG har skåret i forventninger tre gange i 2025: &quot;Det er aldrig tilfredsstillende&quot;</title>
@@ -131,7 +139,7 @@
       <description>&lt;p&gt;NTG har dog ifølge topchef performet godt ”i lyset af det marked, vi befinder os i”.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:01:00 GMT</pubDate>
       <author>AF Sif Bjørk Pedersen</author>
-      <source>MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'} ({'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Advokater nedtoner effekt af ny konkurslov – men den vil få konsekvenser</title>
@@ -139,7 +147,7 @@
       <description>&lt;p&gt;Lovforslaget blev førstebehandlet fredag i sidste uge, og der var generelt bred opbakning i folketingssalen. Én ændring blev dog kritiseret af flere partier.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 10:00:00 GMT</pubDate>
       <author>AF Andreas Vestergaard</author>
-      <source>AdvokatWatch - seneste nyt (http://advokatwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'AdvokatWatch - seneste nyt (http://advokatwatch.dk/rss/seneste.rss)'} ({'title': 'AdvokatWatch - seneste nyt (http://advokatwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Online-spil skal træne børn i at gennemskue fup på sociale medier</title>
@@ -147,7 +155,7 @@
       <description>&lt;p&gt;Et forskningsprojekt på SDU om, hvordan børn fra 5 til 12 år oplever information på sociale medier, skal resultere i et spil, der lærer børn selv at skelne sandt fra usandt.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 09:59:00 GMT</pubDate>
       <author>AF BIRGIT STRAARUP</author>
-      <source>MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Norge sætter Bovaer-brug på pause</title>
@@ -155,15 +163,7 @@
       <description>&lt;p&gt;Danske erfaringer og meldinger om mistrivsel fører nu til stop i Norge.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Nov 2025 09:57:00 GMT</pubDate>
       <author>AF Dorte Stenbæk Bro, RITZAU ‎</author>
-      <source>AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)</source>
-    </item>
-    <item>
-      <title>Børsnotering lurer fortsat i fiskefoderselskab</title>
-      <link>https://fodevarewatch.dk/Drikkevarer/article18732595.ece?utm_source=Feed&amp;utm_medium=latest</link>
-      <description>&lt;p&gt;Milliardselskabet Biomar har fundet nye medlemmer til bestyrelsen. Der arbejdes stadig mod en børsnotering, lyder det fra selskabets ejere.&lt;/p&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 09:50:00 GMT</pubDate>
-      <author>AF REDAKTIONEN</author>
-      <source>FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'} ({'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'})</source>
     </item>
   </channel>
 </rss>
