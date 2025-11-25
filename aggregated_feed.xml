@@ -4,14 +4,22 @@
     <title>Aggregeret Feed</title>
     <description>Samlet feed fra multiple kilder</description>
     <link>http://localhost/</link>
-    <lastBuildDate>Tue, 25 Nov 2025 09:07:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 09:09:28 +0000</lastBuildDate>
+    <item>
+      <title>Debat: Har EU hvad der skal til for at blive en elektro-union?</title>
+      <link>https://energiwatch.dk/Energinyt/Politik___Markeder/article18774621.ece?utm_source=Feed&amp;utm_medium=latest</link>
+      <description>&lt;p&gt;Hvem sikrer, at Europa investerer tilstrækkeligt i elnettet? To politiske pakker under Dan Jørgensen bliver testen på, om EU tør tage ansvar for den fælles elektriske fremtid, påpeger politiker. &lt;/p&gt;</description>
+      <pubDate>Tue, 25 Nov 2025 09:07:00 GMT</pubDate>
+      <author>AF LAURA KOLD</author>
+      <source>EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)</source>
+    </item>
     <item>
       <title>Jobskifte Ny Zetland-chef bruger kun klassiske nyhedsmedier &quot;lige akkurat nok&quot; til at være duelig i sit job</title>
       <link>https://mediawatch.dk/Navne/article18753013.ece?utm_source=Feed&amp;utm_medium=latest</link>
       <description>&lt;p&gt;Førhen fik det Sofie Tholl til at føle sig lidt uengageret, når hun hurtigt kedede sig over en klassisk artikel. Siden har det vist sig at være en god motivation til at dyrke nye måder at fortælle på.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 09:01:00 GMT</pubDate>
       <author>AF JULIE MIA FOGDE</author>
-      <source>MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Banker får løsere tøjler ved kreditvurderinger</title>
@@ -19,7 +27,7 @@
       <description>&lt;p&gt;Ny vejledning har været i støbeskeen siden sommer og er nu præsenteret i sin endelige form.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 09:00:00 GMT</pubDate>
       <author>AF Thomas Nygaard Madsen</author>
-      <source>FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Kapitalfondsejet softwarefirma løfter driftsresultat over milliard-milepæl</title>
@@ -27,7 +35,7 @@
       <description>&lt;p&gt;Koncernen er begyndt at sælge ud af sine datterselskaber.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 09:00:00 GMT</pubDate>
       <author>AF Casper Vagner Christensen</author>
-      <source>ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'} ({'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Myndigheder godkender opkøb i Fayrefield</title>
@@ -35,7 +43,7 @@
       <description>&lt;p&gt;Kapitalfonds overtagelse af det jyske mejeriselskab er faldet på plads, melder styrelse.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:59:00 GMT</pubDate>
       <author>AF Torben Salomonsen</author>
-      <source>FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'} ({'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Pandora får sænker kursmål af storbank</title>
@@ -43,7 +51,7 @@
       <description>&lt;p&gt;Pandora har i år haft en del modvind på cykelstien blandt andet i form af stigende priser på guld og sølv.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:47:00 GMT</pubDate>
       <author>AF MARKETWIRE ‎</author>
-      <source>DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'} ({'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Tirsdagens konkurser: Sønderjyske udlejere bukker under</title>
@@ -51,7 +59,7 @@
       <description>&lt;p&gt;Ejendomsselskaber, byggefirmaer og serviceaktører er med på dagens liste, der tæller 50 konkurser og en rekonstruktionsplan.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:46:00 GMT</pubDate>
       <author>AF REDAKTIONEN</author>
-      <source>EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Nyt selskab søger millioner til entre på pyrolysemarked</title>
@@ -59,7 +67,7 @@
       <description>&lt;p&gt;På et fundament af thailandsk teknologi vil direktør opføre anlæg inden for både landbrugs- og plastpyrolyse.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:44:00 GMT</pubDate>
       <author>AF Joachim Krejberg Knudsen</author>
-      <source>CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'} ({'title': 'CleantechWatch - seneste nyt (http://ctwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Thise henter mere mælk fra leverandører</title>
@@ -67,7 +75,7 @@
       <description>&lt;p&gt;Vækst i mælkemængderne hos mejeriet på Salling.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:41:00 GMT</pubDate>
       <author>AF Dorte Stenbæk Bro</author>
-      <source>FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'} ({'title': 'FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Analyse: Hver tredje har erfaring med at købe illegale dagligvarer</title>
@@ -75,7 +83,7 @@
       <description>&lt;p&gt;De Samvirkende Købmænd foreslår en styrket enhed mod illegal handel samt flere ressourcer til politiet. &lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:39:00 GMT</pubDate>
       <author>AF Harald Sebastian Krebs</author>
-      <source>DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'} ({'title': 'DetailWatch - Latest News (http://detailwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Østrigske mejeriselskaber vil fusionere</title>
@@ -83,7 +91,7 @@
       <description>&lt;p&gt;Det samlede selskab puljer over 3.000 mælkeleverandører og vil generere en omsætning på 3,9 mia. kr. &lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:37:00 GMT</pubDate>
       <author>AF Joachim Krejberg Knudsen</author>
-      <source>AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'} ({'title': 'AgriWatch - seneste nyt (http://agriwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Kunstig intelligens frigiver hænder i ATP</title>
@@ -91,7 +99,7 @@
       <description>&lt;p&gt;En ny AI-løsning vil i løbet af foråret være udrullet til 600 kunderådgivere i ATP.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:30:00 GMT</pubDate>
       <author>AF Sofie Højlund</author>
-      <source>ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'} ({'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Diana Shipping fremsætter købstilbud på amerikanske Genco</title>
@@ -99,7 +107,7 @@
       <description>&lt;p&gt;Det græske tørlastrederi Diana Shipping har tilbud at købe alle udestående aktier i Genco for 20,6 dollar pr. aktie svarende til ca. 750 mio. dollar.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:30:00 GMT</pubDate>
       <author>AF Kit Lindhardt</author>
-      <source>ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'} ({'title': 'ShippingWatch - seneste nyt (http://shippingwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Bankerne tjener færre penge på både ind- og udlån – tyder på hårdere konkurrence</title>
@@ -107,7 +115,7 @@
       <description>&lt;p&gt;Indlånsmarginalen er på niveau med årene før finanskrisen.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:15:00 GMT</pubDate>
       <author>AF Sofie Højlund</author>
-      <source>FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Canadisk finanshus løfter kursmål for Vestas med 10 pct.</title>
@@ -115,7 +123,7 @@
       <description>&lt;p&gt;Aktien er siden nytår steget godt 50 pct.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:08:00 GMT</pubDate>
       <author>AF MARKETWIRE ‎</author>
-      <source>EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'} ({'title': 'EnergiWatch - seneste nyt (http://energiwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Metronome vil til USA og Storbritannien med Emmy-vindende format</title>
@@ -123,7 +131,7 @@
       <description>&lt;p&gt;Holdet bag ”Shaolin” vandt natten til tirsdag en Emmy og vil gerne brede det mere ud, siger produktionschef.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:05:00 GMT</pubDate>
       <author>AF RITZAU ‎</author>
-      <source>MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'} ({'title': 'MediaWatch - seneste nyt (http://mediawatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Nyt bud på en erhvervs­borgmester i København</title>
@@ -131,7 +139,7 @@
       <description>&lt;p&gt;Yildiz Akdogan vil være fagborgmester for Socialdemokratiet i København. Der er nu to kandidater til posten.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:01:00 GMT</pubDate>
       <author>AF RITZAU ‎</author>
-      <source>EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'} ({'title': 'EjendomsWatch - seneste nyt (http://ejendomswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Netcompany-konkurrent øger forventningerne til 2025</title>
@@ -139,7 +147,7 @@
       <description>&lt;p&gt;Teknologiselskabet Tietoevry justerer sit vækstskøn, men forventer bedre driftsmarginer.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 08:00:00 GMT</pubDate>
       <author>AF Lena Jarstad</author>
-      <source>ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'} ({'title': 'ITWatch - seneste nyt (http://itwatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Banker klarer skærene under hård recession i ny stresstest</title>
@@ -147,7 +155,7 @@
       <description>&lt;p&gt;Der er rigelig polstring at gøre godt med i landets banker, viser testen fra Danmarks Nationalbank.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 07:57:00 GMT</pubDate>
       <author>AF Stefan Nygaard</author>
-      <source>FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'} ({'title': 'FinansWatch - seneste nyt (http://finanswatch.dk/rss/seneste.rss)'})</source>
     </item>
     <item>
       <title>Contrans-køber skifter navn efter overtagelse</title>
@@ -155,15 +163,7 @@
       <description>&lt;p&gt;Aktiviteterne efter Contrans blev købt af det nordjyske transportselskab NTS, kort efter Contrans blev begæret konkurs.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Nov 2025 07:57:00 GMT</pubDate>
       <author>AF Sif Bjørk Pedersen</author>
-      <source>MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)</source>
-    </item>
-    <item>
-      <title>Amerikansk kødkoncern ændrer på produktionen</title>
-      <link>https://fodevarewatch.dk/international/article18776024.ece?utm_source=Feed&amp;utm_medium=latest</link>
-      <description>&lt;p&gt;Tyson Foods lukker fabrik og skruer på knapperne ved at flytte produktion. &lt;/p&gt;</description>
-      <pubDate>Tue, 25 Nov 2025 07:55:00 GMT</pubDate>
-      <author>AF REDAKTIONEN</author>
-      <source>FødevareWatch - seneste nyt (http://fodevarewatch.dk/rss/seneste.rss)</source>
+      <source>{'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'} ({'title': 'MobilityWatch - seneste nyt (http://mobilitywatch.dk/rss/seneste.rss)'})</source>
     </item>
   </channel>
 </rss>
